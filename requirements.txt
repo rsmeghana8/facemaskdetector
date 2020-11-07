@@ -1,0 +1,9 @@
+streamlit==0.70.0
+tensorboard==1.15.0
+tensorboard-plugin-wit==1.7.0
+tensorflow-estimator==1.15.1
+tensorflow-gpu==1.15.0
+opencv-contrib-python==4.4.0.44
+opencv-python==4.4.0.44
+numpy==1.18.5
+pandas==1.1.2
