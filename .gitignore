@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+dataset/*
+videos/*
+faces/*
+Models/*
+testout_simple.mp4
+*.zip
+Models/mobilenet.h5
+Models/resnet.h5
